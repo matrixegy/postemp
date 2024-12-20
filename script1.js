@@ -1,3 +1,4 @@
+<script>
 const countdownlinksMessages = ["انتظر... سيتم عرض الروابط بعد", "Links will appear soon..."];
   let messageIndex = 0;
 
@@ -77,4 +78,4 @@ const countdownlinksMessages = ["انتظر... سيتم عرض الروابط ب
       this.style.display = "none";
       // Start countdownlinks
       startcountdownlinks();
-  });
+  });</script>
